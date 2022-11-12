@@ -17,20 +17,6 @@ const Home = () => {
       <p>
         I am actively looking for a full time Software Engineering position.
       </p>
-      {/* <div className={classes.row}>
-        <a href="https://linkedin.com/in/giulia-piombo" target="_blank">
-          <img
-            src="https://d33wubrfki0l68.cloudfront.net/d8e6e1e636531e28274a1b8b6d947b817f6145bd/d42d3/assets/svg/linkedin-dark.svg"
-            alt="linkedin"
-          />
-        </a>
-        <a href="https://github.com/giupiombo" target="_blank">
-          <img
-            src="https://d33wubrfki0l68.cloudfront.net/38469cf88d038b6ba3322c9fcb93a8f7167df4b9/cb0b9/assets/svg/github-dark.svg"
-            alt="github"
-          />
-        </a>
-      </div> */}
     </div>
   );
 };
