@@ -43,6 +43,12 @@
   border-radius: 10px;
 }
 
+.divider {
+  /* width: 60%;
+  margin-left: 20%; */
+  background-color: #f6bd60;
+}
+
 .row {
   display: flex;
   padding-left: 5rem;

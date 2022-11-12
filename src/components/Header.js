@@ -1,13 +1,28 @@
 import classes from './Header.module.css';
 
-const Header = () => {
+const Header = ({ homeRef, aboutRef, projectsRef }) => {
+  const onHomeClick = (e) => {
+    e.preventDefault();
+    homeRef.current.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  const onAboutClick = (e) => {
+    e.preventDefault();
+    aboutRef.current.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  const onProjectsClick = (e) => {
+    e.preventDefault();
+    projectsRef.current.scrollIntoView({ behavior: 'smooth' });
+  };
+
   return (
     <header className={classes.header}>
       <button>Giulia Piombo</button>
       <span></span>
-      <button>Home</button>
-      <button>About</button>
-      <button>Projects</button>
+      <button onClick={onHomeClick}>Home</button>
+      <button onClick={onAboutClick}>About</button>
+      <button onClick={onProjectsClick}>Projects</button>
     </header>
   );
 };

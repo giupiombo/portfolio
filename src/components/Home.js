@@ -1,12 +1,14 @@
 import classes from './Home.module.css';
 import me from '../images/me.jpg';
 import background from '../images/background2.jpg';
+import { forwardRef } from 'react';
 
-const Home = () => {
+const Home = forwardRef((props, ref) => {
   return (
     <div
       className={classes.home}
       style={{ backgroundImage: `url(${background})` }}
+      ref={ref}
     >
       <h1>Hey there, I'm Giulia</h1>
       <img src={me} alt="me" />
@@ -19,6 +21,6 @@ const Home = () => {
       </p>
     </div>
   );
-};
+});
 
 export default Home;

@@ -1,9 +1,10 @@
 import classes from './Projects.module.css';
 import learnly from '../images/learnly.png';
+import { forwardRef } from 'react';
 
-const Projects = () => {
+const Projects = forwardRef((props, ref) => {
   return (
-    <div className={classes.projects}>
+    <div className={classes.projects} ref={ref}>
       <h1>Projects</h1>
       <div className={classes.row}>
         <div className={classes.column}>
@@ -33,6 +34,6 @@ const Projects = () => {
       </div>
     </div>
   );
-};
+});
 
 export default Projects;

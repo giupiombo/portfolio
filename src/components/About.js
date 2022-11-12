@@ -1,8 +1,10 @@
+import { Divider } from '@mui/material';
 import classes from './About.module.css';
+import { forwardRef } from 'react';
 
-const About = () => {
+const About = forwardRef((props, ref) => {
   return (
-    <div className={classes.about}>
+    <div className={classes.about} ref={ref}>
       <h1>About Me</h1>
       <div className={classes.row}>
         <div className={classes.column}>
@@ -43,8 +45,9 @@ const About = () => {
           <button>Figma</button>
         </div>
       </div>
+      <Divider className={classes.divider} />
     </div>
   );
-};
+});
 
 export default About;
