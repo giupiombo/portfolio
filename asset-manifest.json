@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.952f6cbb.css",
-    "main.js": "/portfolio/static/js/main.1ac9cb45.js",
-    "static/media/me.jpg": "/portfolio/static/media/me.ff79a4d0776c2e0aeac6.jpg",
-    "static/media/learnly.png": "/portfolio/static/media/learnly.f92ca295cd6f1c076852.png",
-    "static/media/background2.jpg": "/portfolio/static/media/background2.76c0a3efb1757d6dc182.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.952f6cbb.css.map": "/portfolio/static/css/main.952f6cbb.css.map",
-    "main.1ac9cb45.js.map": "/portfolio/static/js/main.1ac9cb45.js.map"
+    "main.css": "/Portfolio/static/css/main.952f6cbb.css",
+    "main.js": "/Portfolio/static/js/main.9080f7b2.js",
+    "static/media/me.jpg": "/Portfolio/static/media/me.ff79a4d0776c2e0aeac6.jpg",
+    "static/media/learnly.png": "/Portfolio/static/media/learnly.f92ca295cd6f1c076852.png",
+    "static/media/background2.jpg": "/Portfolio/static/media/background2.76c0a3efb1757d6dc182.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.952f6cbb.css.map": "/Portfolio/static/css/main.952f6cbb.css.map",
+    "main.9080f7b2.js.map": "/Portfolio/static/js/main.9080f7b2.js.map"
   },
   "entrypoints": [
     "static/css/main.952f6cbb.css",
-    "static/js/main.1ac9cb45.js"
+    "static/js/main.9080f7b2.js"
   ]
 }
