@@ -45,7 +45,8 @@ const About = forwardRef((props, ref) => {
           <button>Figma</button>
         </div>
       </div>
-      <Divider className={classes.divider} />
+      {/* <Divider className={classes.divider} /> */}
+      <hr className={classes.divider} />
     </div>
   );
 });

@@ -18,7 +18,7 @@ const Header = ({ homeRef, aboutRef, projectsRef }) => {
 
   return (
     <header className={classes.header}>
-      <button>Giulia Piombo</button>
+      <button onClick={onHomeClick}>Giulia Piombo</button>
       <span></span>
       <button onClick={onHomeClick}>Home</button>
       <button onClick={onAboutClick}>About</button>

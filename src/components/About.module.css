@@ -44,9 +44,10 @@
 }
 
 .divider {
-  /* width: 60%;
-  margin-left: 20%; */
   background-color: #f6bd60;
+  width: 60%;
+  border: 0cm;
+  height: 0.1rem;
 }
 
 .row {
