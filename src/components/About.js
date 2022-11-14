@@ -1,4 +1,3 @@
-import { Divider } from '@mui/material';
 import classes from './About.module.css';
 import { forwardRef } from 'react';
 
