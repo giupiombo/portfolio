@@ -24,6 +24,20 @@ const About = forwardRef((props, ref) => {
             develop purposeful software. Eager to learn new industry best
             practices to improve software development.
           </p>
+          <h3>Fun facts</h3>
+          <li>
+            I have a 1 year old cat called Stella, I adopted her when she was 5
+            weeks old at the shelter.
+          </li>
+          <li>
+            When I was younger I used to draw and paint. I still like to do it
+            when I have some spare time.
+          </li>
+          <li>
+            Sports have always been part of my life, since I was very young I
+            used to swim and play soccer. Nowadays I like to hike, boxing and
+            muay-thai.
+          </li>
         </div>
         <div className={classes.column}>
           <h2>Technical Skills</h2>
@@ -42,9 +56,10 @@ const About = forwardRef((props, ref) => {
           <button>GitHub</button>
           <button>AWS</button>
           <button>Figma</button>
+          <button>Canva</button>
+          <button>Visual Studio Code</button>
         </div>
       </div>
-      {/* <Divider className={classes.divider} /> */}
       <hr className={classes.divider} />
     </div>
   );

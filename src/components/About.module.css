@@ -28,6 +28,12 @@
   line-height: 1.7;
 }
 
+.about li {
+  font-size: 18px;
+  line-height: 1.7;
+  margin-left: 0.5rem;
+}
+
 .about button {
   font: inherit;
   text-align: center;
