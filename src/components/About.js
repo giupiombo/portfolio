@@ -26,7 +26,7 @@ const About = forwardRef((props, ref) => {
           </p>
           <h3>Fun facts</h3>
           <li>
-            I have a 1 year old cat called Stella, I adopted her when she was 5
+            I have a 1 year old cat called Stella. I adopted her when she was 5
             weeks old at the shelter.
           </li>
           <li>
@@ -34,8 +34,8 @@ const About = forwardRef((props, ref) => {
             when I have some spare time.
           </li>
           <li>
-            Sports have always been part of my life, since I was very young I
-            used to swim and play soccer. Nowadays I like to hike, boxing and
+            Sports have always been part of my life. Every since I was young I
+            used to swim and play soccer. Nowadays I like hiking, boxing and
             muay-thai.
           </li>
         </div>

@@ -1,6 +1,6 @@
 import classes from './Header.module.css';
 
-const Header = ({ homeRef, aboutRef, projectsRef }) => {
+const Header = ({ homeRef, aboutRef, experienceRef, projectsRef }) => {
   const onHomeClick = (e) => {
     e.preventDefault();
     homeRef.current.scrollIntoView({ behavior: 'smooth' });
@@ -9,6 +9,11 @@ const Header = ({ homeRef, aboutRef, projectsRef }) => {
   const onAboutClick = (e) => {
     e.preventDefault();
     aboutRef.current.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  const onExperienceClick = (e) => {
+    e.preventDefault();
+    experienceRef.current.scrollIntoView({ behavior: 'smooth' });
   };
 
   const onProjectsClick = (e) => {
@@ -22,6 +27,7 @@ const Header = ({ homeRef, aboutRef, projectsRef }) => {
       <span></span>
       <button onClick={onHomeClick}>Home</button>
       <button onClick={onAboutClick}>About</button>
+      <button onClick={onExperienceClick}>Experience</button>
       <button onClick={onProjectsClick}>Projects</button>
     </header>
   );
