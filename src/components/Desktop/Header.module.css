@@ -27,5 +27,6 @@
 }
 
 .header span {
-  margin-left: 30%;
+  position: relative;
+  width: 30%;
 }

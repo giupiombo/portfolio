@@ -3,7 +3,6 @@ import classes from './Footer.module.css';
 const Footer = () => {
   return (
     <>
-      {/* <footer className={classes.footer}> */}
       <div className={classes.footer}>
         <section className={classes.margin1}>
           <h1>Giulia Piombo</h1>
