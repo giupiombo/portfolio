@@ -1,6 +1,6 @@
 import classes from './Home.module.css';
-import me from '../images/me.jpg';
-import background from '../images/background2.jpg';
+import me from '../../images/me.jpg';
+import background from '../../images/background2.jpg';
 import { forwardRef } from 'react';
 
 const Home = forwardRef((props, ref) => {

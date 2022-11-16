@@ -1,5 +1,5 @@
 import classes from './Projects.module.css';
-import learnly from '../images/learnly.png';
+import learnly from '../../images/learnly.png';
 import { forwardRef } from 'react';
 
 const Projects = forwardRef((props, ref) => {
