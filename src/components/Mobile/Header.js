@@ -1,5 +1,3 @@
-import { useState } from 'react';
-// import classes from './Header.module.css';
 import { slide as Menu } from 'react-burger-menu';
 import './Header.css';
 
@@ -26,18 +24,6 @@ const Header = ({ homeRef, aboutRef, experienceRef, projectsRef }) => {
 
   return (
     <Menu>
-      {/* <a className="menu-item" href="/">
-          Home
-        </a>
-        <a className="menu-item" href="/salads">
-          Salads
-        </a>
-        <a className="menu-item" href="/pizzas">
-          Pizzas
-        </a>
-        <a className="menu-item" href="/desserts">
-          Desserts
-        </a> */}
       <button onClick={onHomeClick}>Home</button>
       <button onClick={onAboutClick}>About</button>
       <button onClick={onExperienceClick}>Experience</button>
