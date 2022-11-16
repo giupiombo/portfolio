@@ -2,7 +2,8 @@
   top: 0;
   left: 0;
   height: 5rem;
-  background-color: #f7ede2;
+  /* background-color: #f7ede2; */
+  background-color: #ffbf69;
   display: flex;
   padding: 0 2%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
@@ -23,7 +24,8 @@
 }
 
 .header button:hover {
-  color: #f28482;
+  /* color: #f28482; */
+  color: white;
 }
 
 .header span {

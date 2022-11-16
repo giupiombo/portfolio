@@ -1,5 +1,6 @@
 import classes from './About.module.css';
 import { forwardRef } from 'react';
+import me from '../../images/me.jpg';
 
 const About = forwardRef((props, ref) => {
   return (
@@ -24,7 +25,7 @@ const About = forwardRef((props, ref) => {
             develop purposeful software. Eager to learn new industry best
             practices to improve software development.
           </p>
-          <h3>Fun facts</h3>
+          <h3 className={classes.facts}>Fun facts</h3>
           <li>
             I have a 1 year old cat called Stella. I adopted her when she was 5
             weeks old at the shelter.
@@ -40,6 +41,7 @@ const About = forwardRef((props, ref) => {
           </li>
         </div>
         <div className={classes.column}>
+          {/* <img src={me} alt="me" /> */}
           <h2>Technical Skills</h2>
           <h3>Programming</h3>
           <button>JavaScript</button>

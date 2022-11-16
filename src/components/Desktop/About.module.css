@@ -8,20 +8,26 @@
 .about h1 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #84a59d;
+  /* color: #84a59d; */
+  color: #2ec4b6;
   text-align: center;
 }
 
 .about h2 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #f6bd60;
+  /* color: #f6bd60; */
+  color: #ff9f1c;
 }
 
 .about h3 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #f28482;
+  /* color: #f28482; */
+}
+
+.facts {
+  color: #ff9f1c;
 }
 
 .about p {
@@ -45,13 +51,29 @@
   font-weight: bold;
   margin-right: 1rem;
   margin-bottom: 1rem;
-  border: 1px solid #f5cac3;
-  background: #f5cac3;
+  /* border: 1px solid #f5cac3;
+  background: #f5cac3; */
+  border: 1px solid #cdb4db;
+  background: #cdb4db;
   border-radius: 10px;
 }
 
+.about img {
+  /* width: 15rem; */
+  height: 20rem;
+  /* border-radius: 10rem; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  /* margin-bottom: 30px;
+  border-style: double;
+  border-color: #84a59d; */
+}
+
 .divider {
-  background-color: #f6bd60;
+  /* background-color: #f6bd60; */
+  background-color: black;
   width: 60%;
   border: 0cm;
   height: 0.1rem;
