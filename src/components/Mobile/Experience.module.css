@@ -9,20 +9,20 @@
 .experience h1 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #84a59d;
+  color: #2ec4b6;
   text-align: center;
 }
 
 .experience h2 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #f28482;
+  color: #ff9f1c;
 }
 
 .experience h3 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #f6bd60;
+  color: #ffbf69;
 }
 
 .experience p {
@@ -48,7 +48,7 @@
 }
 
 .divider {
-  background-color: #f6bd60;
+  background-color: black;
   width: 60%;
   border: 0cm;
   height: 0.1rem;

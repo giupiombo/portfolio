@@ -9,20 +9,19 @@
 .projects h1 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #84a59d;
+  color: #2ec4b6;
   text-align: center;
 }
 
 .projects h2 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #f6bd60;
+  color: #ff9f1c;
 }
 
 .projects h3 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  color: #f28482;
 }
 
 .projects p {
@@ -46,8 +45,8 @@
   height: 3rem;
   font-size: 15px;
   font-weight: bold;
-  border: 1px solid #f5cac3;
-  background: #f6bd60;
+  border: 1px solid #f28482;
+  background: #f5cac3;
   border-radius: 10px;
   cursor: pointer;
   color: black;
@@ -79,12 +78,12 @@
   margin-bottom: 1rem;
   margin-top: 0rem;
   margin-left: 0rem;
-  border: 1px solid #f5cac3;
-  background: #f5cac3;
+  border: 1px solid #cdb4db;
+  background: #cdb4db;
   border-radius: 10px;
   cursor: auto;
 }
 
 .tools button:hover {
-  background: #f5cac3;
+  background: #cdb4db;
 }

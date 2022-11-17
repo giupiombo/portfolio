@@ -2,7 +2,6 @@
   top: 0;
   left: 0;
   height: 5rem;
-  /* background-color: #f7ede2; */
   background-color: #ffbf69;
   display: flex;
   padding: 0 2%;
@@ -24,11 +23,12 @@
 }
 
 .header button:hover {
-  /* color: #f28482; */
   color: white;
 }
 
-.header span {
-  position: relative;
-  width: 30%;
+.right {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+  margin-right: 0;
 }

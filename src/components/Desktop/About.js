@@ -1,6 +1,5 @@
 import classes from './About.module.css';
 import { forwardRef } from 'react';
-import me from '../../images/me.jpg';
 
 const About = forwardRef((props, ref) => {
   return (
@@ -41,7 +40,6 @@ const About = forwardRef((props, ref) => {
           </li>
         </div>
         <div className={classes.column}>
-          {/* <img src={me} alt="me" /> */}
           <h2>Technical Skills</h2>
           <h3>Programming</h3>
           <button>JavaScript</button>

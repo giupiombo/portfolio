@@ -24,11 +24,12 @@ const Header = ({ homeRef, aboutRef, experienceRef, projectsRef }) => {
   return (
     <header className={classes.header}>
       <button onClick={onHomeClick}>Giulia Piombo</button>
-      <span></span>
-      <button onClick={onHomeClick}>Home</button>
-      <button onClick={onAboutClick}>About</button>
-      <button onClick={onExperienceClick}>Experience</button>
-      <button onClick={onProjectsClick}>Projects</button>
+      <div className={classes.right}>
+        <button onClick={onHomeClick}>Home</button>
+        <button onClick={onAboutClick}>About</button>
+        <button onClick={onExperienceClick}>Experience</button>
+        <button onClick={onProjectsClick}>Projects</button>
+      </div>
     </header>
   );
 };

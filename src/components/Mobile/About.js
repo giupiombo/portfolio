@@ -22,7 +22,7 @@ const About = forwardRef((props, ref) => {
         purposeful software. Eager to learn new industry best practices to
         improve software development.
       </p>
-      <h3>Fun facts</h3>
+      <h3 className={classes.facts}>Fun facts</h3>
       <li>
         I have a 1 year old cat called Stella. I adopted her when she was 5
         weeks old at the shelter.
