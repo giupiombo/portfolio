@@ -5,6 +5,8 @@
   margin-left: 12rem;
   margin-right: 12rem;
   text-align: center;
+  max-width: 130rem;
+  margin: 0 auto;
 }
 
 .experience h1 {
@@ -53,4 +55,5 @@
   width: 60%;
   border: 0cm;
   height: 0.1rem;
+  margin-top: 2rem;
 }
