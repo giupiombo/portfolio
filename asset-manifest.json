@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.958863d5.css",
+    "main.css": "/Portfolio/static/css/main.fdf529dc.css",
     "main.js": "/Portfolio/static/js/main.1fefeafc.js",
     "static/media/learnly.png": "/Portfolio/static/media/learnly.f92ca295cd6f1c076852.png",
     "static/media/me.png": "/Portfolio/static/media/me.b7faf99544ee1840e1f3.png",
     "index.html": "/Portfolio/index.html",
-    "main.958863d5.css.map": "/Portfolio/static/css/main.958863d5.css.map",
+    "main.fdf529dc.css.map": "/Portfolio/static/css/main.fdf529dc.css.map",
     "main.1fefeafc.js.map": "/Portfolio/static/js/main.1fefeafc.js.map"
   },
   "entrypoints": [
-    "static/css/main.958863d5.css",
+    "static/css/main.fdf529dc.css",
     "static/js/main.1fefeafc.js"
   ]
 }
