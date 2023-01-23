@@ -10,11 +10,11 @@ const About = forwardRef((props, ref) => {
         I am originally from <strong>São Paulo, Brazil</strong>. I moved to the
         United States in 2019 to pursue my bachelor's degree in{' '}
         <strong>Computer Engineering</strong> at{' '}
-        <strong>Texas Tech University</strong>. I am currently the co-founder
-        and president of <strong>BRASA at Tech</strong>, a Brazilian student
-        organization at the university. Our goal is to connect Brazilian
-        students, promote our culture, and support volunteering activities to
-        help our local community.
+        <strong>Texas Tech University</strong>. I am the co-founder and former
+        president of <strong>BRASA at Tech</strong>, a Brazilian student
+        organization at the university. The organization's goal is to connect
+        Brazilian students, promote our culture, and support volunteering
+        activities to help our local community.
       </p>
       <p>
         Proactive <strong>Software Engineer</strong> passionate about applying
