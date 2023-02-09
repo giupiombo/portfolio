@@ -15,8 +15,8 @@ const Projects = forwardRef((props, ref) => {
           <p>
             Learnly is a <strong>e-learning platform</strong> that hosts several
             courses from a variety of disciplines. It was developed for a class
-            project. I am currently working on the{' '}
-            <strong>front-end development</strong> of this website.
+            project. I worked on the <strong>front-end development</strong> of
+            this website.
           </p>
           <h3>Tools</h3>
           <div className={classes.tools}>
