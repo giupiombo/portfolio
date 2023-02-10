@@ -33,27 +33,6 @@
   width: 90%;
 }
 
-.projects button {
-  font: inherit;
-  text-align: center;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  margin-top: 1rem;
-  margin-left: 35%;
-  height: 3rem;
-  font-size: 15px;
-  font-weight: bold;
-  border: 1px solid #f28482;
-  background: #f5cac3;
-  border-radius: 10px;
-  cursor: pointer;
-  color: black;
-}
-
-.projects button:hover {
-  background: #f7ede2;
-}
-
 .row {
   display: flex;
   padding-left: 5rem;
@@ -85,4 +64,30 @@
 
 .tools button:hover {
   background: #cdb4db;
+}
+
+.access {
+  text-align: center;
+}
+
+.access button {
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 3rem;
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+  margin-left: 0rem;
+  border: 1px solid #f28482;
+  background: #f5cac3;
+  border-radius: 10px;
+  cursor: pointer;
+  color: black;
+}
+
+.access button:hover {
+  background: #f7ede2;
 }

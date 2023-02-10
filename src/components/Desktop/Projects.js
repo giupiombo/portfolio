@@ -27,9 +27,14 @@ const Projects = forwardRef((props, ref) => {
             <button>Firebase</button>
           </div>
           <span></span>
-          <a href="https://github.com/giupiombo/Learnly" target="_blank">
-            <button>GitHub Repository</button>
-          </a>
+          <div className={classes.access}>
+            <a href="https://projectlab4-89008.web.app" target="_blank">
+              <button>Website</button>
+              <a href="https://github.com/giupiombo/Learnly" target="_blank">
+                <button>GitHub Repository</button>
+              </a>
+            </a>
+          </div>
         </div>
       </div>
     </div>
