@@ -66,7 +66,6 @@ const About = forwardRef((props, ref) => {
           <button>Visual Studio Code</button>
         </div>
       </div>
-      <hr className={classes.divider} />
     </div>
   );
 });

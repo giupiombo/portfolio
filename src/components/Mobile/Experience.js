@@ -33,7 +33,6 @@ const Experience = forwardRef((props, ref) => {
       <button>Java</button>
       <button>HTML</button>
       <button>CSS</button>
-      <hr className={classes.divider} />
     </div>
   );
 });

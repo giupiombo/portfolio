@@ -53,7 +53,6 @@ const About = forwardRef((props, ref) => {
       <button>Figma</button>
       <button>Canva</button>
       <button>Visual Studio Code</button>
-      <hr className={classes.divider} />
     </div>
   );
 });

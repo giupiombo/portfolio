@@ -7,8 +7,9 @@ const Projects = forwardRef((props, ref) => {
   return (
     <div className={classes.projects} ref={ref}>
       <h1>Projects</h1>
-      <img src={learnly} alt="learnly" />
+
       <h2>Learnly</h2>
+      <img src={learnly} alt="learnly" />
       <p>
         Learnly is a <strong>e-learning platform</strong> that hosts several
         courses from a variety of disciplines. It was developed for a class
@@ -31,8 +32,8 @@ const Projects = forwardRef((props, ref) => {
         <button>GitHub Repository</button>
       </a>
       <hr className={classes.divider} />
-      <img src={travelstory} alt="travelstory" />
       <h2>TravelStory</h2>
+      <img src={travelstory} alt="travelstory" />
       <p>
         TravelStory is a <strong>blog</strong> where people can add their
         personal travel stories.
