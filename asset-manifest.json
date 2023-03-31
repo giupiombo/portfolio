@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.33efc400.css",
-    "main.js": "/Portfolio/static/js/main.9a4eb239.js",
+    "main.js": "/Portfolio/static/js/main.d32e1247.js",
     "static/media/travelstory.png": "/Portfolio/static/media/travelstory.67bc730a76a757a4fcef.png",
     "static/media/learnlypage.png": "/Portfolio/static/media/learnlypage.9104a802c7120470d0e5.png",
     "static/media/me.png": "/Portfolio/static/media/me.8859ae9522018c67eb70.png",
     "index.html": "/Portfolio/index.html",
     "main.33efc400.css.map": "/Portfolio/static/css/main.33efc400.css.map",
-    "main.9a4eb239.js.map": "/Portfolio/static/js/main.9a4eb239.js.map"
+    "main.d32e1247.js.map": "/Portfolio/static/js/main.d32e1247.js.map"
   },
   "entrypoints": [
     "static/css/main.33efc400.css",
-    "static/js/main.9a4eb239.js"
+    "static/js/main.d32e1247.js"
   ]
 }
