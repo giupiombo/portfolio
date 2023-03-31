@@ -48,6 +48,7 @@ const About = forwardRef((props, ref) => {
           <button>TypeScript</button>
           <button>React.js</button>
           <button>Next.js</button>
+          <button>React Native</button>
           <button>HTML</button>
           <button>CSS</button>
           <button>Java</button>

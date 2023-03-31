@@ -38,7 +38,10 @@ const About = forwardRef((props, ref) => {
       <h2>Technical Skills</h2>
       <h3>Programming</h3>
       <button>JavaScript</button>
+      <button>TypeScript</button>
       <button>React.js</button>
+      <button>Next.js</button>
+      <button>React Native</button>
       <button>HTML</button>
       <button>CSS</button>
       <button>Java</button>
@@ -46,11 +49,13 @@ const About = forwardRef((props, ref) => {
       <h3>Database</h3>
       <button>Snowflake</button>
       <button>Firebase</button>
+      <button>MongoDB</button>
       <h3>Software</h3>
       <button>Git</button>
       <button>GitHub</button>
       <button>AWS</button>
       <button>Figma</button>
+      <button>Vercel</button>
       <button>Canva</button>
       <button>Visual Studio Code</button>
     </div>
