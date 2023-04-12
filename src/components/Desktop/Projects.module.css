@@ -47,6 +47,11 @@
   margin: auto;
 }
 
+.row2 img {
+  width: auto;
+  height: 10rem;
+}
+
 .column {
   flex: 50%;
   padding: 2rem;
