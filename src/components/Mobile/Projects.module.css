@@ -67,10 +67,11 @@
 
 .row2 {
   display: flex;
+  max-width: 100%;
 }
 
 .row2 img {
-  width: 40%;
+  width: 30%;
 }
 
 .column {
