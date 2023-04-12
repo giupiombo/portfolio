@@ -78,16 +78,8 @@ const Projects = forwardRef((props, ref) => {
       <div className={classes.row}>
         <div className={classes.column}>
           <div className={classes.row2}>
-            <img
-              src={travelstory_ios}
-              alt="travelstory_ios"
-              style={{ width: 200 }}
-            />
-            <img
-              src={travelstory_android}
-              alt="travelstory_android"
-              style={{ width: 200 }}
-            />
+            <img src={travelstory_ios} alt="travelstory_ios" />
+            <img src={travelstory_android} alt="travelstory_android" />
           </div>
         </div>
         <div className={classes.column}>

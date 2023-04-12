@@ -69,6 +69,10 @@
   display: flex;
 }
 
+.row2 img {
+  width: 40%;
+}
+
 .column {
   flex: 50%;
   padding: 2rem;
