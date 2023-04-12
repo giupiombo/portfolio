@@ -61,12 +61,12 @@ const Projects = forwardRef((props, ref) => {
         <img
           src={travelstory_ios}
           alt="travelstory_ios"
-          style={{ width: 200 }}
+          style={{ width: 100 }}
         />
         <img
           src={travelstory_android}
           alt="travelstory_android"
-          style={{ width: 200 }}
+          style={{ width: 100 }}
         />
       </div>
       <p>
