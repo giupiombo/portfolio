@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b3bcffef.css",
+    "main.css": "/Portfolio/static/css/main.73dfd3ba.css",
     "main.js": "/Portfolio/static/js/main.02d17a97.js",
     "static/media/travelstory.png": "/Portfolio/static/media/travelstory.67bc730a76a757a4fcef.png",
     "static/media/learnlypage.png": "/Portfolio/static/media/learnlypage.9104a802c7120470d0e5.png",
@@ -8,11 +8,11 @@
     "static/media/travelstory_android.png": "/Portfolio/static/media/travelstory_android.f552ebde41d4d95f9473.png",
     "static/media/travelstory_ios.png": "/Portfolio/static/media/travelstory_ios.e2dad03f4c46ea8decf8.png",
     "index.html": "/Portfolio/index.html",
-    "main.b3bcffef.css.map": "/Portfolio/static/css/main.b3bcffef.css.map",
+    "main.73dfd3ba.css.map": "/Portfolio/static/css/main.73dfd3ba.css.map",
     "main.02d17a97.js.map": "/Portfolio/static/js/main.02d17a97.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3bcffef.css",
+    "static/css/main.73dfd3ba.css",
     "static/js/main.02d17a97.js"
   ]
 }
