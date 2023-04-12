@@ -1,6 +1,8 @@
 import classes from './Projects.module.css';
 import learnly from '../../images/learnlypage.png';
 import travelstory from '../../images/travelstory.png';
+import travelstory_ios from '../../images/travelstory_ios.png';
+import travelstory_android from '../../images/travelstory_android.png';
 import { forwardRef } from 'react';
 
 const Projects = forwardRef((props, ref) => {
@@ -68,6 +70,45 @@ const Projects = forwardRef((props, ref) => {
               >
                 <button>GitHub Repository</button>
               </a>
+            </a>
+          </div>
+        </div>
+      </div>
+      <hr className={classes.divider} />
+      <div className={classes.row}>
+        <div className={classes.column}>
+          <div className={classes.row2}>
+            <img
+              src={travelstory_ios}
+              alt="travelstory_ios"
+              style={{ width: 200 }}
+            />
+            <img
+              src={travelstory_android}
+              alt="travelstory_android"
+              style={{ width: 200 }}
+            />
+          </div>
+        </div>
+        <div className={classes.column}>
+          <h2>TravelStory Mobile App</h2>
+          <p>
+            TravelStory is a <strong>blog</strong> where people can add their
+            personal travel stories.
+          </p>
+          <h3>Tools</h3>
+          <div className={classes.tools}>
+            <button>JavaScript</button>
+            <button>React Native</button>
+            <button>Firebase</button>
+          </div>
+          <span></span>
+          <div className={classes.access}>
+            <a
+              href="https://github.com/giupiombo/TravelStoryApp"
+              target="_blank"
+            >
+              <button>GitHub Repository</button>
             </a>
           </div>
         </div>
