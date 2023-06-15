@@ -14,6 +14,7 @@ const Experience = forwardRef((props, ref) => {
       <button>Postman</button>
       <button>React.js</button>
       <button>CSS</button>
+      <button>TypeScript</button>
       <h2>Tableau</h2>
       <h3>Software Engineer Intern - 2022</h3>
       <p>
