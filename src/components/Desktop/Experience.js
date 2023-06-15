@@ -5,6 +5,16 @@ const Experience = forwardRef((props, ref) => {
   return (
     <div className={classes.experience} ref={ref}>
       <h1>Experience</h1>
+      <h2>Stefanini</h2>
+      <h3>Software Developer - 2023</h3>
+      <p>
+        Developing an UI to visualize the system health of AWS Lambda Functions.
+      </p>
+      <button>AWS</button>
+      <button>Postman</button>
+      <button>React.js</button>
+      <button>CSS</button>
+      <button>TypeScript</button>
       <h2>Tableau</h2>
       <h3>Software Engineer Intern - 2022</h3>
       <p>
