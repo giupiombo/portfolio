@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d1730be9.css",
-    "main.js": "/Portfolio/static/js/main.b6b50c07.js",
-    "static/media/travelstory.png": "/Portfolio/static/media/travelstory.67bc730a76a757a4fcef.png",
-    "static/media/learnlypage.png": "/Portfolio/static/media/learnlypage.9104a802c7120470d0e5.png",
-    "static/media/me.png": "/Portfolio/static/media/me.8859ae9522018c67eb70.png",
-    "static/media/travelstory_android.png": "/Portfolio/static/media/travelstory_android.f552ebde41d4d95f9473.png",
-    "static/media/travelstory_ios.png": "/Portfolio/static/media/travelstory_ios.e2dad03f4c46ea8decf8.png",
-    "index.html": "/Portfolio/index.html",
-    "main.d1730be9.css.map": "/Portfolio/static/css/main.d1730be9.css.map",
-    "main.b6b50c07.js.map": "/Portfolio/static/js/main.b6b50c07.js.map"
+    "main.css": "/portfolio/static/css/main.d1730be9.css",
+    "main.js": "/portfolio/static/js/main.78d53b23.js",
+    "static/media/travelstory.png": "/portfolio/static/media/travelstory.67bc730a76a757a4fcef.png",
+    "static/media/learnlypage.png": "/portfolio/static/media/learnlypage.9104a802c7120470d0e5.png",
+    "static/media/me.png": "/portfolio/static/media/me.8859ae9522018c67eb70.png",
+    "static/media/travelstory_android.png": "/portfolio/static/media/travelstory_android.f552ebde41d4d95f9473.png",
+    "static/media/travelstory_ios.png": "/portfolio/static/media/travelstory_ios.e2dad03f4c46ea8decf8.png",
+    "index.html": "/portfolio/index.html",
+    "main.d1730be9.css.map": "/portfolio/static/css/main.d1730be9.css.map",
+    "main.78d53b23.js.map": "/portfolio/static/js/main.78d53b23.js.map"
   },
   "entrypoints": [
     "static/css/main.d1730be9.css",
-    "static/js/main.b6b50c07.js"
+    "static/js/main.78d53b23.js"
   ]
 }
