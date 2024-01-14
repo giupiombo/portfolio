@@ -8,13 +8,23 @@ const Experience = forwardRef((props, ref) => {
       <h2>Stefanini</h2>
       <h3>Software Developer - 2023</h3>
       <p>
-        Developing an UI to visualize the system health of AWS Lambda Functions.
+        Engineered user-friendly interfaces to provide real-time insights for
+        efficient monitoring and optimization of AWS Lambda function
+        performance.
+      </p>
+      <p>
+        Designed and implemented an intuitive platform for a LLM initiative.
+      </p>
+      <p>
+        AWS Lambdas with Python and orchestrated them with Step Functions for
+        efficient microservices.
       </p>
       <button>AWS</button>
       <button>Postman</button>
       <button>React.js</button>
       <button>CSS</button>
       <button>TypeScript</button>
+      <button>Python</button>
       <h2>Tableau</h2>
       <h3>Software Engineer Intern - 2022</h3>
       <p>

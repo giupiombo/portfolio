@@ -24,7 +24,7 @@ const About = forwardRef((props, ref) => {
       </p>
       <h3 className={classes.facts}>Fun facts</h3>
       <li>
-        I have a 1 year old cat called Stella. I adopted her when she was 5
+        I have a 2 year old cat called Stella. I adopted her when she was 5
         weeks old at the shelter.
       </li>
       <li>
